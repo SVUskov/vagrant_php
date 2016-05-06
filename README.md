@@ -19,7 +19,7 @@ Installation.
     bower install
     npm install
     ```
-8. Open url default [127.0.0.1:8080](127.0.0.1:8080);
+8. Open url default: [127.0.0.1:8080](http://127.0.0.1:8080);
 
 What included.
 -------------
