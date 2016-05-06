@@ -1,0 +1,12 @@
+{
+    "name": "default/default",
+    "authors": [
+        {
+            "name": "evgeniy.yolkin",
+            "email": "evgeniy.yolkin@gmail.com"
+        }
+    ],
+    "require": {
+
+    }
+}
